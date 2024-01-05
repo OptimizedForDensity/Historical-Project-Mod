@@ -3372,7 +3372,7 @@ country_event  = {
 	
 	trigger = {
 		tag = WHA
-		NOT = { any_pop = { has_culture = welsh } }
+		NOT = { any_pop = { culture = welsh } }
 	}
 	
 	fire_only_once = yes

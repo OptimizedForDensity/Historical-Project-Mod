@@ -3605,8 +3605,9 @@ political_decisions = {
                 limit = {
                     owner = { 2553 = { empty = yes } }
                 }
-                # Audax Validator "." Ignore_NEXT
-                FROM = { inherit = THIS }
+                owner = {
+			inherit = TMT
+                }
             }
             any_owned = {
                 limit = {

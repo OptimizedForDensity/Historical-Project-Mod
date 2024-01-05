@@ -1,4 +1,4 @@
-# Historical Project Mod
+# Historical Project Mod (Alice Compatibile)
 
 *This readme is under construction*
 
@@ -7,16 +7,14 @@ There are *tons* of stuff, and tons of bugfixes and flavour, and honestly I don'
 
 You can see some of the stuff that has been done in the past either in [Moddb](https://www.moddb.com/mods/historical-project-mod) or in the [pastebin](https://pastebin.com/66gpxbKk).
 
-*From 2019 onwards I expect to make a full transition to Github, as it's easier to organize everything - Moddb will still be used, but Github should become the main source of information.*
-
-## Wiki and Minimods
-It's still under construction, but it's slowly getting there. The [Wiki](https://github.com/arkhometha/Historical-Project-Mod/wiki) is the place yo go if you are looking for info (disclaimer: info to come at a later date) or minimods (those are included).
+This project has been updated to be compatible with [Project Alice](https://github.com/schombert/Project-Alice) and features all of the commits from the Development branch that weren't merged into the master branch as well as my own tweaks. Future compatibility with Victoria 2 is not expected.
 
 ## Credits
 
 * Naselus and everyone who contributed to Pop Demand Mod (PDM). The terrain system was originally taken from that mod, and fixed and adapted for some provinces, but then it was scrapped and replaced with an original system.
-* Rylock for his excellent New Nations Mod (NNM). NNM is the true basis for almost every Victoria 2 mod out there, and the work done on it was fantastic. 
+* Rylock for his excellent New Nations Mod (NNM). NNM is the true basis for almost every Victoria 2 mod out there, and the work done on it was fantastic.
 * Thanks to Faulty's for the icons and Thoughtful Punk for his flags.
 * Thanks to Semper Victor for his Portrait mods, that I'm slowly integrating.
 * Thanks to AFPG for his masterfully designed flags, as well as all the other anonymous contributions to Persia, Siberia and America.
 * Thanks to everyone and all anons who helped with events, decisions, bugfixes and suggestions!
+* HPM for the great mod.
